@@ -1,0 +1,15 @@
+#logout{
+    float:right;
+}
+
+body{
+    background-image: linear-gradient(to right top, #ff7bc8, #ee98d8, #f8984e, #f3b26d, #fff06c);
+}
+img{
+height:20px;
+width:20px;
+}
+div{
+    background-color: white;
+    padding: 15px;
+}
